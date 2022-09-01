@@ -1,0 +1,9 @@
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\bin\Debug\NetFramework48Third.dll
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\bin\Debug\NetFramework48Third.pdb
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\bin\Debug\nunit.framework.dll
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\bin\Debug\nunit.framework.xml
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\obj\Debug\NetFramework48Third.csproj.AssemblyReference.cache
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\obj\Debug\NetFramework48Third.csproj.CoreCompileInputs.cache
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\obj\Debug\NetFramework48Third.csproj.CopyComplete
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\obj\Debug\NetFramework48Third.dll
+C:\Users\Egor.Yuriev\RiderProjects\ManyTests\TargetFrameworks\NetFramework48Third\obj\Debug\NetFramework48Third.pdb
